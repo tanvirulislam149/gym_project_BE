@@ -1,0 +1,4 @@
+db.sqlite3
+.env
+gym_env/
+__pycache__/
